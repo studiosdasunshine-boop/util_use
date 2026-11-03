@@ -1,0 +1,18 @@
+#######################################
+# Classes
+#######################################
+
+util_use            KEYWORD1
+blink               KEYWORD1
+fade                KEYWORD1
+DistSensor          KEYWORD1
+
+#######################################
+# Methods
+#######################################
+
+blink_led           KEYWORD2
+fade_led_pwm        KEYWORD2
+read_distance       KEYWORD2
+print_distance      KEYWORD2
+get_distance        KEYWORD2
